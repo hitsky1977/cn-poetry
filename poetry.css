@@ -23,7 +23,7 @@ html{scroll-behavior:smooth}body{font-family:'Montserrat',sans-serif;font-size:1
     display: block;
     padding: 8px 14px !important;
     margin-left: 0 !important;
-    line-height: 1.25;
+    line-height: 1.05;
     color: #555;
     background-color: #fff;
     border: 1px solid #ddd !important; /* 强制统一边框宽度 */
