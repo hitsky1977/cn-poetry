@@ -8,7 +8,7 @@ html{scroll-behavior:smooth}body{font-family:'Montserrat',sans-serif;font-size:1
     list-style: none;
     border-radius: 4px;
     overflow: hidden; /* 自动处理圆角剪裁 */
-    border: none !important; 
+    border: none !important; font-size: 14px;
 }
 
 /* 2. 项目重置：取消 Bootstrap 默认样式，使用负边距合并边框 */
