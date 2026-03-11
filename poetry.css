@@ -33,3 +33,24 @@
     font-weight: 700;
     text-transform: uppercase;
 }
+/* 找回缺失的搜索框基础样式 */
+.form-control-minimal {
+    border: none !important;
+    background: transparent !important;
+    padding-left: 0;
+    font-size: 0.9rem;
+    box-shadow: none !important;
+    width: 100%;
+}
+.form-control-minimal:focus {
+    outline: none !important;
+    background: transparent !important;
+}
+.search-btn {
+    border: none;
+    background: transparent;
+    padding: 0 5px;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+.search-btn:hover { transform: scale(1.1); }
